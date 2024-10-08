@@ -6,7 +6,7 @@ This repository contains various machine learning projects that I’ve been work
 
 ### 1. House Price Prediction
 This project predicts house prices based on various features using regression models. The dataset used includes attributes such as the number of rooms, house size, and location.
-- **Dataset**: [HousePricePrediction.xlsx]([https://github.com/Poxxon/Basic-Machine-Learning-Models/House-Prediction/HousePricePrediction.xlsx](https://github.com/Poxxon/Basic-Machine-Learning-Models/blob/main/House%20Prediction/HousePricePrediction.xlsx))
+- **Dataset**: [HousePricePrediction.xlsx](https://github.com/Poxxon/Basic-Machine-Learning-Models/House-Prediction/HousePricePrediction.xlsx](https://github.com/Poxxon/Basic-Machine-Learning-Models/blob/main/House%20Prediction/HousePricePrediction.xlsx))
 - **Notebook**: [HousePrediction.ipynb](./path/to/HousePrediction.ipynb)
 - **Techniques Used**:
   - Data Preprocessing
