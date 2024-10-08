@@ -6,8 +6,8 @@ This repository contains various machine learning projects that I’ve been work
 
 ### 1. House Price Prediction
 This project predicts house prices based on various features using regression models. The dataset used includes attributes such as the number of rooms, house size, and location.
-- **Dataset**: [HousePricePrediction.xlsx](https://github.com/Poxxon/Basic-Machine-Learning-Models/House-Prediction/HousePricePrediction.xlsx](https://github.com/Poxxon/Basic-Machine-Learning-Models/blob/main/House%20Prediction/HousePricePrediction.xlsx))
-- **Notebook**: [HousePrediction.ipynb](./path/to/HousePrediction.ipynb)
+- **Dataset**: HousePricePrediction.xlsx
+- **Notebook**: HousePrediction.ipynb
 - **Techniques Used**:
   - Data Preprocessing
   - Linear Regression
@@ -16,7 +16,7 @@ This project predicts house prices based on various features using regression mo
 
 ### 2. Solubility Model
 A machine learning model to predict the solubility of chemical compounds. This project involves working with molecular data to build predictive models.
-- **Notebook**: [SolubilityModel.ipynb](./path/to/SolubilityModel.ipynb)
+- **Notebook**: SolubilityModel.ipynb
 - **Techniques Used**:
   - Data Cleaning and Preprocessing
   - Random Forest Regression
@@ -25,8 +25,8 @@ A machine learning model to predict the solubility of chemical compounds. This p
 
 ### 3. Selling Price Prediction for Used Cars
 This project focuses on predicting the selling prices of used cars based on features like brand, model, year, and mileage.
-- **Dataset**: [sellingPriceUsedCars.xlsx](./path/to/sellingPriceUsedCars.xlsx) / [sellingPriceUsedCars.csv](./path/to/sellingPriceUsedCars.csv)
-- **Notebook**: Coming Soon
+- **Dataset**: sellingPriceUsedCars.xlsx / sellingPriceUsedCars.csv
+- **Notebook**: SellingPriceOfUsedCars.ipynb
 - **Techniques Used**:
   - Data Cleaning
   - Decision Trees
@@ -49,7 +49,7 @@ You can install the required packages using pip:
 
 ```bash
 pip install -r requirements.txt
-```
+
 
 ## Future Plans
 
