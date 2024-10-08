@@ -25,7 +25,7 @@ A machine learning model to predict the solubility of chemical compounds. This p
 
 ### 3. Selling Price Prediction for Used Cars
 This project focuses on predicting the selling prices of used cars based on features like brand, model, year, and mileage.
-- **Dataset**: sellingPriceUsedCars.xlsx / sellingPriceUsedCars.csv
+- **Dataset**: sellingPriceUsedCars.csv
 - **Notebook**: SellingPriceOfUsedCars.ipynb
 - **Techniques Used**:
   - Data Cleaning
