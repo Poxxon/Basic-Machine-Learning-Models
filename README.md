@@ -57,6 +57,6 @@ pip install -r requirements.txt
 - Implement deep learning models for some projects.
 - Further optimize existing models with advanced tuning techniques.
   
-##Contributing
+## Contributing
 
 Contributions are welcome! Please feel free to submit issues or pull requests.
